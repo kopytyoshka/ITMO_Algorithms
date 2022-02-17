@@ -1,4 +1,4 @@
 # ITMO_Algorithms
-Algorithms and Data Structure labs
-At lab directories you can find problemsN.pdf file.
-This file shows tasks
+Algorithms and Data Structure labs <\br>
+At lab directories you can find problemsN.pdf file.<\br>
+This file shows tasks<\br>
